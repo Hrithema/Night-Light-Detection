@@ -1,7 +1,7 @@
 """Area report: what kind of growth happened around a point over the last ~10 years.
 
 Evidence is collected from three places, then written up either by Claude (if an
-GEMINI_API_KEY is set) or by a deterministic rule-based writer:
+ANTHROPIC_API_KEY is set) or by a deterministic rule-based writer:
 
   1. measurements from the night-light matrices (src/window.py)         - always
   2. OpenStreetMap: place name (Nominatim) and nearby land use (Overpass) - free, no key
@@ -43,7 +43,7 @@ def _ua():
 
 # ------------------------------------------------------------------ cache
 def _key(lat, lon, radius_km, use_ai):
-    has_key = bool(os.environ.get("GEMINI_API_KEY"))
+    has_key = bool(os.environ.get("ANTHROPIC_API_KEY"))
     raw = f"{config.REGION}|{lat:.3f}|{lon:.3f}|{radius_km:g}|{int(use_ai)}|{int(has_key)}"
     return hashlib.sha1(raw.encode()).hexdigest()[:16]
 
@@ -213,7 +213,7 @@ SYSTEM_PROMPT = (
 
 def ai_report(ev):
     """Ask Claude to write the report from the evidence. Returns None if no key / any failure."""
-    key = os.environ.get("GEMINI_API_KEY")
+    key = os.environ.get("ANTHROPIC_API_KEY")
     if not key:
         return None
     try:
@@ -278,8 +278,8 @@ def build_report(lat, lon, radius_km, measurements, use_ai=True):
         report = rule_based_report(ev)
         if use_ai and ai_error:
             warnings.append(ai_error)
-        elif use_ai and not os.environ.get("GEMINI_API_KEY"):
-            warnings.append("No GEMINI_API_KEY set, so the rule-based summary is shown.")
+        elif use_ai and not os.environ.get("ANTHROPIC_API_KEY"):
+            warnings.append("No ANTHROPIC_API_KEY set, so the rule-based summary is shown.")
 
     out = {
         "report": report,
