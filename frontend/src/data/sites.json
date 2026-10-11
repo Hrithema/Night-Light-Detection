@@ -1,0 +1,852 @@
+[
+ {
+  "id": "209",
+  "type": "growth",
+  "lat": 23.32949,
+  "lon": 85.2838,
+  "label": "no_change",
+  "notes": "",
+  "first": 10.01,
+  "last": 22.52
+ },
+ {
+  "id": "244",
+  "type": "growth",
+  "lat": 22.79761,
+  "lon": 86.18993,
+  "label": "no_change",
+  "notes": "",
+  "first": 27.34,
+  "last": 39.86
+ },
+ {
+  "id": "181",
+  "type": "growth",
+  "lat": 23.64557,
+  "lon": 86.16621,
+  "label": "no_change",
+  "notes": "",
+  "first": 11.5,
+  "last": 22.21
+ },
+ {
+  "id": "206",
+  "type": "growth",
+  "lat": 23.39091,
+  "lon": 85.35682,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 13.05,
+  "last": 22.64
+ },
+ {
+  "id": "155",
+  "type": "growth",
+  "lat": 23.7871,
+  "lon": 85.56042,
+  "label": "no_change",
+  "notes": "",
+  "first": 14.84,
+  "last": 30.24
+ },
+ {
+  "id": "149",
+  "type": "growth",
+  "lat": 23.81847,
+  "lon": 86.44316,
+  "label": "no_change",
+  "notes": "",
+  "first": 13.27,
+  "last": 22.22
+ },
+ {
+  "id": "178",
+  "type": "growth",
+  "lat": 23.67831,
+  "lon": 86.08419,
+  "label": "industrial",
+  "notes": "",
+  "first": 27.39,
+  "last": 42.5
+ },
+ {
+  "id": "263",
+  "type": "growth",
+  "lat": 22.14382,
+  "lon": 85.5005,
+  "label": "no_change",
+  "notes": "",
+  "first": 9.95,
+  "last": 24.17
+ },
+ {
+  "id": "183",
+  "type": "growth",
+  "lat": 23.65811,
+  "lon": 86.49792,
+  "label": "industrial",
+  "notes": "",
+  "first": 9.6,
+  "last": 28.87
+ },
+ {
+  "id": "185",
+  "type": "growth",
+  "lat": 23.64751,
+  "lon": 85.28968,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 7.37,
+  "last": 25.04
+ },
+ {
+  "id": "107",
+  "type": "growth",
+  "lat": 24.04079,
+  "lon": 84.09002,
+  "label": "urban_growth",
+  "notes": "Almost no change",
+  "first": 7.31,
+  "last": 14.68
+ },
+ {
+  "id": "161",
+  "type": "growth",
+  "lat": 23.775,
+  "lon": 85.84167,
+  "label": "no_change",
+  "notes": "Small Urban_growth",
+  "first": 1.82,
+  "last": 28.86
+ },
+ {
+  "id": "229",
+  "type": "growth",
+  "lat": 23.16618,
+  "lon": 85.58937,
+  "label": "no_change",
+  "notes": "",
+  "first": 1.93,
+  "last": 8.37
+ },
+ {
+  "id": "94",
+  "type": "growth",
+  "lat": 24.16089,
+  "lon": 83.80428,
+  "label": "no_change",
+  "notes": "",
+  "first": 5.23,
+  "last": 11.55
+ },
+ {
+  "id": "174",
+  "type": "growth",
+  "lat": 23.70946,
+  "lon": 85.29065,
+  "label": "mining",
+  "notes": "",
+  "first": 4.85,
+  "last": 14.1
+ },
+ {
+  "id": "66",
+  "type": "growth",
+  "lat": 24.27404,
+  "lon": 87.25107,
+  "label": "no_change",
+  "notes": "",
+  "first": 11.4,
+  "last": 19.11
+ },
+ {
+  "id": "115",
+  "type": "growth",
+  "lat": 24.00186,
+  "lon": 85.99499,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 1.85,
+  "last": 9.52
+ },
+ {
+  "id": "167",
+  "type": "growth",
+  "lat": 23.74522,
+  "lon": 84.49914,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 3.72,
+  "last": 10.46
+ },
+ {
+  "id": "207",
+  "type": "growth",
+  "lat": 23.40925,
+  "lon": 85.24875,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 3.04,
+  "last": 11.48
+ },
+ {
+  "id": "243",
+  "type": "growth",
+  "lat": 22.83777,
+  "lon": 86.23324,
+  "label": "no_change",
+  "notes": "Forest Area",
+  "first": 18.07,
+  "last": 27.17
+ },
+ {
+  "id": "165",
+  "type": "growth",
+  "lat": 23.75875,
+  "lon": 86.40042,
+  "label": "mining",
+  "notes": "",
+  "first": 14.94,
+  "last": 34.25
+ },
+ {
+  "id": "63",
+  "type": "growth",
+  "lat": 24.30542,
+  "lon": 85.43479,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 3.93,
+  "last": 13.13
+ },
+ {
+  "id": "180",
+  "type": "growth",
+  "lat": 23.68229,
+  "lon": 86.39323,
+  "label": "mining",
+  "notes": "",
+  "first": 11.22,
+  "last": 33.64
+ },
+ {
+  "id": "36",
+  "type": "growth",
+  "lat": 24.49277,
+  "lon": 86.69326,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 33.82,
+  "last": 43.77
+ },
+ {
+  "id": "104",
+  "type": "growth",
+  "lat": 24.08167,
+  "lon": 85.39042,
+  "label": "no_change",
+  "notes": "",
+  "first": 2.9,
+  "last": 11.27
+ },
+ {
+  "id": "159",
+  "type": "growth",
+  "lat": 23.77875,
+  "lon": 86.20764,
+  "label": "mining",
+  "notes": "",
+  "first": 7.58,
+  "last": 18.59
+ },
+ {
+  "id": "125",
+  "type": "growth",
+  "lat": 23.94962,
+  "lon": 86.08485,
+  "label": "no_change",
+  "notes": "",
+  "first": 1.5,
+  "last": 8.8
+ },
+ {
+  "id": "33",
+  "type": "growth",
+  "lat": 24.51605,
+  "lon": 86.63591,
+  "label": "no_change",
+  "notes": "",
+  "first": 9.07,
+  "last": 18.46
+ },
+ {
+  "id": "215",
+  "type": "growth",
+  "lat": 23.30573,
+  "lon": 85.0599,
+  "label": "industrial",
+  "notes": "",
+  "first": 9.44,
+  "last": 28.22
+ },
+ {
+  "id": "136",
+  "type": "growth",
+  "lat": 23.87269,
+  "lon": 86.32917,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 5.33,
+  "last": 13.66
+ },
+ {
+  "id": "122",
+  "type": "emergence",
+  "lat": 23.90153,
+  "lon": 85.22578,
+  "label": "no_change",
+  "notes": "",
+  "first": 0.36,
+  "last": 8.44
+ },
+ {
+  "id": "257",
+  "type": "emergence",
+  "lat": 22.57758,
+  "lon": 85.90093,
+  "label": "industrial",
+  "notes": "",
+  "first": 1.48,
+  "last": 13.63
+ },
+ {
+  "id": "23",
+  "type": "emergence",
+  "lat": 24.81996,
+  "lon": 87.16309,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 1.95,
+  "last": 11.27
+ },
+ {
+  "id": "139",
+  "type": "emergence",
+  "lat": 23.84633,
+  "lon": 85.02079,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 0.15,
+  "last": 12.73
+ },
+ {
+  "id": "130",
+  "type": "emergence",
+  "lat": 23.89534,
+  "lon": 85.08664,
+  "label": "no_change",
+  "notes": "",
+  "first": 0.32,
+  "last": 7.5
+ },
+ {
+  "id": "50",
+  "type": "emergence",
+  "lat": 24.37091,
+  "lon": 84.19443,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 0.51,
+  "last": 6.09
+ },
+ {
+  "id": "132",
+  "type": "emergence",
+  "lat": 23.89048,
+  "lon": 85.00054,
+  "label": "mining",
+  "notes": "",
+  "first": 0.27,
+  "last": 7.05
+ },
+ {
+  "id": "30",
+  "type": "emergence",
+  "lat": 24.54689,
+  "lon": 87.45454,
+  "label": "mining",
+  "notes": "",
+  "first": 0.99,
+  "last": 8.49
+ },
+ {
+  "id": "49",
+  "type": "emergence",
+  "lat": 24.39112,
+  "lon": 87.08381,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 2.3,
+  "last": 8.04
+ },
+ {
+  "id": "35",
+  "type": "emergence",
+  "lat": 24.47402,
+  "lon": 84.2348,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 0.36,
+  "last": 5.31
+ },
+ {
+  "id": "235",
+  "type": "emergence",
+  "lat": 23.03403,
+  "lon": 85.28889,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 0.56,
+  "last": 16.72
+ },
+ {
+  "id": "145",
+  "type": "emergence",
+  "lat": 23.83669,
+  "lon": 84.93363,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 0.0,
+  "last": 5.24
+ },
+ {
+  "id": "204",
+  "type": "emergence",
+  "lat": 23.44438,
+  "lon": 85.26083,
+  "label": "no_change",
+  "notes": "",
+  "first": 1.28,
+  "last": 6.53
+ },
+ {
+  "id": "43",
+  "type": "emergence",
+  "lat": 24.43498,
+  "lon": 86.61195,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 0.72,
+  "last": 11.06
+ },
+ {
+  "id": "67",
+  "type": "emergence",
+  "lat": 24.27708,
+  "lon": 87.28433,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 0.85,
+  "last": 6.32
+ },
+ {
+  "id": "11",
+  "type": "emergence",
+  "lat": 25.04514,
+  "lon": 87.83507,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 1.07,
+  "last": 5.92
+ },
+ {
+  "id": "253",
+  "type": "emergence",
+  "lat": 22.67351,
+  "lon": 86.4006,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 1.28,
+  "last": 8.3
+ },
+ {
+  "id": "225",
+  "type": "emergence",
+  "lat": 23.205,
+  "lon": 85.50208,
+  "label": "no_change",
+  "notes": "",
+  "first": 0.45,
+  "last": 5.09
+ },
+ {
+  "id": "68",
+  "type": "emergence",
+  "lat": 24.28179,
+  "lon": 83.51911,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 0.9,
+  "last": 4.91
+ },
+ {
+  "id": "262",
+  "type": "emergence",
+  "lat": 22.17292,
+  "lon": 85.34583,
+  "label": "no_change",
+  "notes": "",
+  "first": 0.87,
+  "last": 5.84
+ },
+ {
+  "id": "258",
+  "type": "emergence",
+  "lat": 22.59271,
+  "lon": 85.84479,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 0.48,
+  "last": 6.95
+ },
+ {
+  "id": "129",
+  "type": "emergence",
+  "lat": 23.91811,
+  "lon": 86.14824,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 1.17,
+  "last": 6.85
+ },
+ {
+  "id": "222",
+  "type": "emergence",
+  "lat": 23.26394,
+  "lon": 85.40529,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 0.75,
+  "last": 6.17
+ },
+ {
+  "id": "5",
+  "type": "emergence",
+  "lat": 25.24297,
+  "lon": 87.59427,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 0.82,
+  "last": 4.88
+ },
+ {
+  "id": "24",
+  "type": "emergence",
+  "lat": 24.82108,
+  "lon": 87.23708,
+  "label": "no_change",
+  "notes": "",
+  "first": 0.77,
+  "last": 3.25
+ },
+ {
+  "id": "92",
+  "type": "emergence",
+  "lat": 24.17882,
+  "lon": 84.05382,
+  "label": "no_change",
+  "notes": "",
+  "first": 0.82,
+  "last": 5.97
+ },
+ {
+  "id": "6",
+  "type": "emergence",
+  "lat": 25.24981,
+  "lon": 87.69754,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 0.85,
+  "last": 6.34
+ },
+ {
+  "id": "69",
+  "type": "emergence",
+  "lat": 24.2831,
+  "lon": 85.35949,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 0.94,
+  "last": 7.45
+ },
+ {
+  "id": "46",
+  "type": "emergence",
+  "lat": 24.41181,
+  "lon": 86.16852,
+  "label": "urban_growth",
+  "notes": "Very Less",
+  "first": 0.57,
+  "last": 3.64
+ },
+ {
+  "id": "254",
+  "type": "emergence",
+  "lat": 22.64754,
+  "lon": 86.37936,
+  "label": "urban_growth",
+  "notes": "",
+  "first": 1.04,
+  "last": 6.0
+ },
+ {
+  "id": "neg1",
+  "type": "negative_sample",
+  "lat": 22.73958,
+  "lon": 85.91042,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg2",
+  "type": "negative_sample",
+  "lat": 22.48542,
+  "lon": 84.17708,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg3",
+  "type": "negative_sample",
+  "lat": 25.20625,
+  "lon": 87.55208,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg4",
+  "type": "negative_sample",
+  "lat": 23.73542,
+  "lon": 84.63542,
+  "label": "urban_growth",
+  "notes": "Very Little",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg5",
+  "type": "negative_sample",
+  "lat": 23.75625,
+  "lon": 85.64792,
+  "label": "no_change",
+  "notes": "Forest area",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg6",
+  "type": "negative_sample",
+  "lat": 24.58125,
+  "lon": 85.74375,
+  "label": "no_change",
+  "notes": "Forest area",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg7",
+  "type": "negative_sample",
+  "lat": 25.00208,
+  "lon": 87.76458,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg8",
+  "type": "negative_sample",
+  "lat": 22.42708,
+  "lon": 86.68125,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg9",
+  "type": "negative_sample",
+  "lat": 24.18125,
+  "lon": 84.55208,
+  "label": "no_change",
+  "notes": "Forest Area",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg10",
+  "type": "negative_sample",
+  "lat": 23.28958,
+  "lon": 85.76042,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg11",
+  "type": "negative_sample",
+  "lat": 24.13125,
+  "lon": 86.06875,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg12",
+  "type": "negative_sample",
+  "lat": 24.75208,
+  "lon": 87.33958,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg13",
+  "type": "negative_sample",
+  "lat": 23.60208,
+  "lon": 85.84792,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg14",
+  "type": "negative_sample",
+  "lat": 23.64792,
+  "lon": 85.21875,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg15",
+  "type": "negative_sample",
+  "lat": 24.36042,
+  "lon": 85.44375,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg16",
+  "type": "negative_sample",
+  "lat": 23.20208,
+  "lon": 85.06875,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg17",
+  "type": "negative_sample",
+  "lat": 22.27708,
+  "lon": 85.48542,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg18",
+  "type": "negative_sample",
+  "lat": 23.33958,
+  "lon": 84.26042,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg19",
+  "type": "negative_sample",
+  "lat": 24.19792,
+  "lon": 87.24792,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg20",
+  "type": "negative_sample",
+  "lat": 23.98542,
+  "lon": 86.27708,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg21",
+  "type": "negative_sample",
+  "lat": 23.00208,
+  "lon": 84.89375,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg22",
+  "type": "negative_sample",
+  "lat": 23.36042,
+  "lon": 85.13958,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg23",
+  "type": "negative_sample",
+  "lat": 22.63958,
+  "lon": 85.55208,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg24",
+  "type": "negative_sample",
+  "lat": 23.46042,
+  "lon": 85.85625,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ },
+ {
+  "id": "neg25",
+  "type": "negative_sample",
+  "lat": 22.73125,
+  "lon": 85.45208,
+  "label": "no_change",
+  "notes": "",
+  "first": null,
+  "last": null
+ }
+]

@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+scikit-learn
+joblib
+matplotlib
+flask
+requests
+python-dotenv
+h5py
+earthaccess
+anthropic

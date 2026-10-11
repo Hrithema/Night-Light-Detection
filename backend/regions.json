@@ -1,0 +1,82 @@
+{
+  "jharkhand": {
+    "state_name": "Jharkhand",
+    "tile": "h26v06",
+    "tile_bounds": [
+      80.0,
+      20.0,
+      90.0,
+      30.0
+    ],
+    "bbox": [
+      83.3,
+      21.9,
+      87.9,
+      25.4
+    ]
+  },
+  "bihar": {
+    "state_name": "Bihar",
+    "tile": "h26v06",
+    "tile_bounds": [
+      80.0,
+      20.0,
+      90.0,
+      30.0
+    ],
+    "bbox": [
+      83.2,
+      24.2,
+      88.4,
+      27.6
+    ]
+  },
+  "west_bengal": {
+    "state_name": "West Bengal",
+    "tile": "h26v06",
+    "tile_bounds": [
+      80.0,
+      20.0,
+      90.0,
+      30.0
+    ],
+    "bbox": [
+      85.7,
+      21.5,
+      89.95,
+      27.3
+    ]
+  },
+  "karnataka": {
+    "state_name": "Karnataka",
+    "tile": "h25v07",
+    "tile_bounds": [
+      70.0,
+      10.0,
+      80.0,
+      20.0
+    ],
+    "bbox": [
+      74.0,
+      11.5,
+      78.6,
+      18.5
+    ]
+  },
+  "demo": {
+    "state_name": "Demo (synthetic data)",
+    "tile": "h26v06",
+    "tile_bounds": [
+      80.0,
+      20.0,
+      90.0,
+      30.0
+    ],
+    "bbox": [
+      83.3,
+      21.9,
+      87.9,
+      25.4
+    ]
+  }
+}

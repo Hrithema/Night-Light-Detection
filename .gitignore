@@ -1,0 +1,12 @@
+# secrets
+.env
+# python
+.venv/
+__pycache__/
+# generated / large data (share separately, see README)
+backend/data/
+backend/outputs/
+backend/cache/
+# node
+frontend/node_modules/
+frontend/dist/
