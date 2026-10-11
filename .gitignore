@@ -1,12 +1,21 @@
-# secrets
+
+# Secrets
 .env
-# python
+.env.*
+!.env.example
+
+# Python
 .venv/
+venv/
 __pycache__/
-# generated / large data (share separately, see README)
-backend/data/
-backend/outputs/
+*.py[cod]
+
+# Raw NASA satellite data
+backend/data/*/raw/
+
+# Backend cache
 backend/cache/
-# node
+
+# Node
 frontend/node_modules/
 frontend/dist/

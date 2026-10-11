@@ -7,7 +7,7 @@ Run from backend/:
 import json, os, sys, types
 os.environ["NL_REGION"] = "demo"   # synthetic data only; never touches your real region
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-os.environ.pop("ANTHROPIC_API_KEY", None)
+os.environ.pop("GEMINI_API_KEY", None)
 import api
 from src import insight
 
@@ -59,7 +59,7 @@ j = c.get("/api/insight?lat=23.314&lon=86.218&radius_km=10&ai=0").get_json()
 ok(j["place"]["locality"] == "Bokaro Steel City" and j["land_use"]["Industrial land"] == 2 and j["nearby_articles"][0]["distance_km"] == 2.3, "OSM + Wikipedia parsed")
 ok("industrial land" in j["report"]["summary"].lower() or "industrial" in " ".join(j["report"]["likely_drivers"]).lower(), "rule-based report uses the land-use context")
 
-os.environ["ANTHROPIC_API_KEY"] = "test"
+os.environ["GEMINI_API_KEY"] = "test"
 class FakeMsgs:
     def __init__(s, text): s.text = text
     def create(s, **k):

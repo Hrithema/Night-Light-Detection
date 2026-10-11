@@ -97,7 +97,7 @@ def _timeseries(r, c, half=1):
 @app.get("/api/health")
 def health():
     return jsonify(status="ok", region=config.REGION, model_loaded=_model() is not None,
-                   ai_available=bool(os.environ.get("ANTHROPIC_API_KEY")))
+                   ai_available=bool(os.environ.get("GEMINI_API_KEY")))
 
 
 @app.get("/api/meta")
@@ -117,7 +117,7 @@ def meta():
     return jsonify(region=config.REGION, state=config.STATE_NAME, tile=config.TILE_CODE,
                    bbox=list(config.BBOX), years=years, sites_detected=n_sites,
                    model_loaded=_model() is not None,
-                   ai_available=bool(os.environ.get("ANTHROPIC_API_KEY")),
+                   ai_available=bool(os.environ.get("GEMINI_API_KEY")),
                    radius_km={"min": MIN_RADIUS_KM, "max": MAX_RADIUS_KM, "default": 10})
 
 
